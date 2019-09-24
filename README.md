@@ -1,2 +1,5 @@
 # my-resume
-My most updated resume
+
+I use this repo to keep track of my most recent resume.
+
+Language: English, Chinese
