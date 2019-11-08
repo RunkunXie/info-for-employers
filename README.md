@@ -1,9 +1,5 @@
-# my-resume
-I use this repo to keep track of my most recent resume.
+# info-for-employers
 
-Language: 
-
-​	English (Updated Oct 2019)
-
-​	Chinese (Updated Jul 2019)
-
+I use this repo to store some useful information for employers, including:
+1. Resume
+2. Projects and Code Samples
