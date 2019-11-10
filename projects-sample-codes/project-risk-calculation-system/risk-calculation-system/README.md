@@ -14,7 +14,7 @@ The system is able to:
 
 **The project contains the following files:**
 
-##### 1. Python Scripts:
+#### 1. Python Scripts:
 
 ​	**main_RiskCal** (Main Program)
 ​	**Input.py**: read the portfolio information from the input files, extracts stock prices and risk-free rates from the SQLite database, and process the data. 
@@ -23,7 +23,7 @@ The system is able to:
 
 ​	**Utilities.py:** define two functions for use in *RiskCal.py*.
 
-##### 2. Data
+#### 2. Data
 
 **2.1Data Files:**
 	**stocks.sqlite**: created by file database.py, contains three tables related to each other to streamline the data download and input process.
